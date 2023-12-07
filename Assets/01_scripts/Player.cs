@@ -92,7 +92,7 @@ public class Player : MonoBehaviour
             else
             {
                 //print("다른레이어"); // -> GameOver
-                //GameOver();
+                GameOver();
             }
 
             StartCoroutine(ReverseCor());

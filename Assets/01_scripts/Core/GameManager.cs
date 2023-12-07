@@ -22,7 +22,6 @@ public class GameManager : MonoBehaviour
     }
 
     private int currentScore = 0;
-    public int CurrentScore => currentScore;
 
     private Color mainColor;
     public Color MainColor => mainColor;
@@ -57,6 +56,11 @@ public class GameManager : MonoBehaviour
     {
         isGameOver = true;
         UIManager.Instance.SetGameOverPanel();
+    }
+
+    public int ReturnScore()
+    {
+        return currentScore;
     }
 
     public void ScoreUpdate()
