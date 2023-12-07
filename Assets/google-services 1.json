@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "946679385504",
+    "firebase_url": "https://network-bde43-default-rtdb.firebaseio.com",
+    "project_id": "network-bde43",
+    "storage_bucket": "network-bde43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946679385504:android:bd0bee5ac66e95753728c5",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.NetSuhang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1jPU3O6d5XR3ihP4XV3wYpUowiwzeZds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
